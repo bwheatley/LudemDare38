@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 5ae11d151bbd2ca4386cf2668f4218f4
+timeCreated: 1492979020
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Waltograph UI
+  fontNames:
+  - Waltograph UI
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
